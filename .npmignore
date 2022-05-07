@@ -9,6 +9,10 @@ __tests__
 
 # examples
 examples
+images
 
 # IDE
 .idea
+
+# github
+.github
